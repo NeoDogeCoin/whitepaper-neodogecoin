@@ -1,0 +1,2 @@
+# whitepaper-neodogecoin
+whitepaper
